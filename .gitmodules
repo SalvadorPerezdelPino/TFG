@@ -4,3 +4,6 @@
 [submodule "quartus/cpu/MulticycleCPU"]
 	path = quartus/cpu/MulticycleCPU
 	url = git@github.com:SalvadorPerezdelPino/MulticycleCPU.git
+[submodule "quartus/cpu/PipelineCPU"]
+	path = quartus/cpu/PipelineCPU
+	url = git@github.com:SalvadorPerezdelPino/PipelineCPU.git
