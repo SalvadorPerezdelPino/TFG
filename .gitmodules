@@ -1,0 +1,3 @@
+[submodule "quartus/cpu/MonocycleCPU"]
+	path = quartus/cpu/MonocycleCPU
+	url = git@github.com:SalvadorPerezdelPino/MonocycleCPU.git
