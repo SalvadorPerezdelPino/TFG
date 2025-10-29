@@ -7,3 +7,6 @@
 [submodule "quartus/cpu/PipelineCPU"]
 	path = quartus/cpu/PipelineCPU
 	url = git@github.com:SalvadorPerezdelPino/PipelineCPU.git
+[submodule "AutoFPGA"]
+	path = AutoFPGA
+	url = git@github.com:SalvadorPerezdelPino/AutoFPGA.git
