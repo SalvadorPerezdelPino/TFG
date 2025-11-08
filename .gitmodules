@@ -10,3 +10,6 @@
 [submodule "AutoFPGA"]
 	path = AutoFPGA
 	url = git@github.com:SalvadorPerezdelPino/AutoFPGA.git
+[submodule "quartus/asic/asic_alignment_problem"]
+	path = quartus/asic/asic_alignment_problem
+	url = git@github.com:SalvadorPerezdelPino/asic_alignment_problem.git
